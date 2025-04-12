@@ -1,3 +1,3 @@
-module github.com/lemal/testGoRepo/add
+module github.com/lemal/testGoRepo
 
 go 1.23
